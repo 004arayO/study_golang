@@ -1,4 +1,4 @@
-module github.com/anuchito/goimdb
+module github.com/004arayO/goimdb
 
 go 1.18
 
